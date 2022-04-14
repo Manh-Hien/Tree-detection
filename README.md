@@ -1,7 +1,6 @@
 # BPlan_Berlin_Planzeichen
  
-.gitignore:
-data/raw/files/BPlan: contains all input data
+data/ and models/ are not included due to data protection and copyright
 
 This object detection model was created from scratch as part of a bachelor thesis.
 It was done under supervision by DEMOS and the goal was to have a first approach on object detection with small symbols.
